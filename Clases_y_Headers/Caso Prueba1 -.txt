@@ -1,0 +1,259 @@
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:1
+0100,Avengers:Endgame,182,Accion,4,0
+iD 100 :
+Titulo: Avengers:Endgame
+Duracion: 182
+Calificacion: 4
+Genero: Accion
+Oscares: 0
+1101,The Lord of the Rings: The Fellowship of the Ring,178,Accion,4.4,4
+iD 101 :
+Titulo: The Lord of the Rings: The Fellowship of the Ring
+Duracion: 178
+Calificacion: 4.4
+Genero: Accion
+Oscares: 4
+2102,Whisper of the Heart,111,Drama,4.3,0
+iD 102 :
+Titulo: Whisper of the Heart
+Duracion: 111
+Calificacion: 4.3
+Genero: Drama
+Oscares: 0
+3103,TENET,178,Accion ,4.5,0
+iD 103 :
+Titulo: TENET
+Duracion: 178
+Calificacion: 4.5
+Genero: Accion
+Oscares: 0
+4104,Dead Poets Society,129,Drama,4.3,1
+iD 104 :
+Titulo: Dead Poets Society
+Duracion: 129
+Calificacion: 4.3
+Genero: Drama
+Oscares: 1
+5105,Your Name,106,Drama,5,0
+iD 105 :
+Titulo: Your Name
+Duracion: 106
+Calificacion: 5
+Genero: Drama
+Oscares: 0
+6106,Kidnap,95,Drama,3,0
+iD 106 :
+Titulo: Kidnap
+Duracion: 95
+Calificacion: 3
+Genero: Drama
+Oscares: 0
+7107,Star Wars: The Revenge of the Sith,139,Accion,4,0
+iD 107 :
+Titulo: Star Wars: The Revenge of the Sith
+Duracion: 139
+Calificacion: 4
+Genero: Accion
+Oscares: 0
+8108,Bohemian Rhapsody,133,Drama,4.5,4
+iD 108 :
+Titulo: Bohemian Rhapsody
+Duracion: 133
+Calificacion: 4.5
+Genero: Drama
+Oscares: 4
+9109,The Godfather,175,Drama,4.6,3
+iD 109 :
+Titulo: The Godfather
+Duracion: 175
+Calificacion: 4.6
+Genero: Drama
+Oscares: 3
+10110,Star Wars: Rogue One,133,Accion,4.3,0
+iD 110 :
+Titulo: Star Wars: Rogue One
+Duracion: 133
+Calificacion: 4.3
+Genero: Accion
+Oscares: 0
+11111,Toy Story 3,135,Drama,4.1,2
+iD 111 :
+Titulo: Toy Story 3
+Duracion: 135
+Calificacion: 4.1
+Genero: Drama
+Oscares: 2
+12112,Parasite,132,Drama,4.3,4
+iD 112 :
+Titulo: Parasite
+Duracion: 132
+Calificacion: 4.3
+Genero: Drama
+Oscares: 4
+13113,Little Women,134,Drama,4.3,1
+iD 113 :
+Titulo: Little Women
+Duracion: 134
+Calificacion: 4.3
+Genero: Drama
+Oscares: 1
+14114,Clueless,100,Drama,4.1,0
+iD 114 :
+Titulo: Clueless
+Duracion: 100
+Calificacion: 4.1
+Genero: Drama
+Oscares: 0
+15115,Hacksaw Ridge,139,Accion,4.1,2
+iD 115 :
+Titulo: Hacksaw Ridge
+Duracion: 139
+Calificacion: 4.1
+Genero: Accion
+Oscares: 2
+16116,The Shawshank Redemption,142,Drama,4.5,0
+iD 116 :
+Titulo: The Shawshank Redemption
+Duracion: 142
+Calificacion: 4.5
+Genero: Drama
+Oscares: 0
+17117,Rubber,82,Misterio,2.9,0
+iD 117 :
+Titulo: Rubber
+Duracion: 82
+Calificacion: 2.9
+Genero: Misterio
+Oscares: 0
+18118,Legally Blonde,196,Drama,4.7,0
+iD 118 :
+Titulo: Legally Blonde
+Duracion: 196
+Calificacion: 4.7
+Genero: Drama
+Oscares: 0
+19119,Radio Rebel,85,Drama,5.9,0
+iD 119 :
+Titulo: Radio Rebel
+Duracion: 85
+Calificacion: 5.9
+Genero: Drama
+Oscares: 0
+
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:3
+ id    Titulo     duracion     genero    calificacion    oscares
+-----------------------------------------------------------------
+100, Avengers:Endgame, 182, Accion, 4.000000, 0
+101, The Lord of the Rings: The Fellowship of the Ring, 178, Accion, 4.000000, 4
+102, Whisper of the Heart, 111, Drama, 4.000000, 0
+103, TENET, 178, Accion , 4.000000, 0
+104, Dead Poets Society, 129, Drama, 4.000000, 1
+105, Your Name, 106, Drama, 5.000000, 0
+106, Kidnap, 95, Drama, 3.000000, 0
+107, Star Wars: The Revenge of the Sith, 139, Accion, 4.000000, 0
+108, Bohemian Rhapsody, 133, Drama, 4.000000, 4
+109, The Godfather, 175, Drama, 4.000000, 3
+110, Star Wars: Rogue One, 133, Accion, 4.000000, 0
+111, Toy Story 3, 135, Drama, 4.000000, 2
+112, Parasite, 132, Drama, 4.000000, 4
+113, Little Women, 134, Drama, 4.000000, 1
+114, Clueless, 100, Drama, 4.000000, 0
+115, Hacksaw Ridge, 139, Accion, 4.000000, 2
+116, The Shawshank Redemption, 142, Drama, 4.000000, 0
+117, Rubber, 82, Misterio, 2.000000, 0
+118, Legally Blonde, 196, Drama, 4.000000, 0
+119, Radio Rebel, 85, Drama, 5.000000, 0
+Promedio Peliculas :3.95
+
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:4
+Ingresa la calificacion:4
+ id    Titulo     duracion     genero    calificacion    oscares
+-----------------------------------------------------------------
+100, Avengers:Endgame, 182, Accion, 4.000000, 0
+101, The Lord of the Rings: The Fellowship of the Ring, 178, Accion, 4.000000, 4
+102, Whisper of the Heart, 111, Drama, 4.000000, 0
+103, TENET, 178, Accion , 4.000000, 0
+104, Dead Poets Society, 129, Drama, 4.000000, 1
+107, Star Wars: The Revenge of the Sith, 139, Accion, 4.000000, 0
+108, Bohemian Rhapsody, 133, Drama, 4.000000, 4
+109, The Godfather, 175, Drama, 4.000000, 3
+110, Star Wars: Rogue One, 133, Accion, 4.000000, 0
+111, Toy Story 3, 135, Drama, 4.000000, 2
+112, Parasite, 132, Drama, 4.000000, 4
+113, Little Women, 134, Drama, 4.000000, 1
+114, Clueless, 100, Drama, 4.000000, 0
+115, Hacksaw Ridge, 139, Accion, 4.000000, 2
+116, The Shawshank Redemption, 142, Drama, 4.000000, 0
+118, Legally Blonde, 196, Drama, 4.000000, 0
+
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:5
+Ingresa el Genero:Misterio
+ id    Titulo     duracion     genero    calificacion    oscares
+-----------------------------------------------------------------
+117, Rubber, 82, Misterio, 2.000000, 0
+
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:5
+Ingresa el Genero:Drama
+ id    Titulo     duracion     genero    calificacion    oscares
+-----------------------------------------------------------------
+102, Whisper of the Heart, 111, Drama, 4.000000, 0
+104, Dead Poets Society, 129, Drama, 4.000000, 1
+105, Your Name, 106, Drama, 5.000000, 0
+106, Kidnap, 95, Drama, 3.000000, 0
+108, Bohemian Rhapsody, 133, Drama, 4.000000, 4
+109, The Godfather, 175, Drama, 4.000000, 3
+111, Toy Story 3, 135, Drama, 4.000000, 2
+112, Parasite, 132, Drama, 4.000000, 4
+113, Little Women, 134, Drama, 4.000000, 1
+114, Clueless, 100, Drama, 4.000000, 0
+116, The Shawshank Redemption, 142, Drama, 4.000000, 0
+118, Legally Blonde, 196, Drama, 4.000000, 0
+119, Radio Rebel, 85, Drama, 5.000000, 0
+
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:5
+Ingresa el Genero:Accion
+ id    Titulo     duracion     genero    calificacion    oscares
+-----------------------------------------------------------------
+100, Avengers:Endgame, 182, Accion, 4.000000, 0
+101, The Lord of the Rings: The Fellowship of the Ring, 178, Accion, 4.000000, 4
+107, Star Wars: The Revenge of the Sith, 139, Accion, 4.000000, 0
+110, Star Wars: Rogue One, 133, Accion, 4.000000, 0
+115, Hacksaw Ridge, 139, Accion, 4.000000, 2
+
+1. Leer información desde Archivo
+2. Alta Pelicula
+3. Reporte de todas las peliculas
+4. Reporte con Calificacion
+5. Reporte por genero
+Teclea la opcion:0
+Program ended with exit code: 0	
